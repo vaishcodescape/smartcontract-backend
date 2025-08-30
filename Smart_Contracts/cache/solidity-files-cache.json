@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\manal\\OneDrive\\Desktop\\Hackathon\\Smart_Contracts\\contracts\\UdavitGreenHydrogen.sol": {
+      "lastModificationDate": 1756587596861,
+      "contentHash": "bf301336fa4e51d596ed5dbac142054c",
+      "sourceName": "contracts/UdavitGreenHydrogen.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "UdavitGreenHydrogen"
+      ]
+    }
+  }
+}
